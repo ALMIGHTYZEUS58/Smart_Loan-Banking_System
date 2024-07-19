@@ -116,7 +116,7 @@ For any inquiries or support, please reach out to:
 - **Email:** quansahransford58@gmail.com
 
 - **Desmond Kwadwo Owusu**
-- **Email:** desmond@example.com
+- **Email:** Kwawusu1@gmail.com
 
 ---
 
