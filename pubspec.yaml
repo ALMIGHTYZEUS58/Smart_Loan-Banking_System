@@ -1,0 +1,53 @@
+name: fast_funds
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0
+  smooth_page_indicator: ^1.2.0
+  flutter_keyboard_visibility: ^6.0.0 
+  font_awesome_flutter: ^10.1.0
+  google_maps_flutter: ^2.0.6
+  geolocator: ^12.0.0
+  location: ^7.0.0
+  fl_chart: ^0.68.0
+  intl: ^0.19.0
+  local_auth: ^2.2.0
+  qr_code_scanner: ^1.0.1
+  qr_flutter: ^4.0.1
+  screenshot: ^3.0.0
+  flutter_colorpicker: ^1.0.3
+  path_provider: ^2.0.9
+  share_plus: ^9.0.0  # Updated package for sharing
+  shared_preferences: ^2.2.3
+  flutter_local_notifications: ^17.2.1+2
+  image_gallery_saver: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icon.png
+    - assets/splash.png
+    - assets/logo.png
+    - assets/profile_pic.jpg
+    - assets/transfer_logo.png
+    - assets/images/splash.png
