@@ -120,4 +120,4 @@ For any inquiries or support, please reach out to:
 
 ---
 
-Developed by Desmond Kwadwo Owusu as part of the Final Year Project (2024).
+Developed by Quansah Ransford & Desmond Kwadwo Owusu as part of the Final Year Project (2024).
